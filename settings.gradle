@@ -1,0 +1,4 @@
+rootProject.name = "DynamicLoad"
+include ':app'
+include ':skin_library'
+include ':skin'
