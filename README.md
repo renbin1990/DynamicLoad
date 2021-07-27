@@ -27,4 +27,4 @@
 
 7、遍历所有控件的属性，拿到控件，控件资源id,资源id类型，资源id名字，然后去和通过Resources获取的资源id做对比，去加载资源包里面的资源
 
-具体步骤参考CSDN链接[]
+具体步骤参考CSDN链接[https://blog.csdn.net/a130226123/article/details/119136479]
